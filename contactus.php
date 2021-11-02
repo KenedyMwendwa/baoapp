@@ -1,3 +1,4 @@
+
 <!DOCTYPE
  html>
 <html lang="en">
@@ -60,6 +61,29 @@ input[type=submit]:hover {  background-color:green ; padding: 13px 20px;}
 </style>
 </head>
 <body>
+<?php
+
+$con = mysqli_connect("localhost", "root", "", "baoapp");
+
+ if(isset($_POST['submit']))
+  {
+  $email=$_POST['email'];
+  $firstname=$_POST['firstname'];
+  $lastname=$_POST['lastname'];
+  $message=$_POST['message'];
+
+       $mysqli = "INSERT INTO messages (email, firstname, lastname, message) VALUES('$email', 
+      '$firstname', '$lastname', '$message')";
+      $result =mysqli_query($con, $mysqli);
+
+      if ($result === TRUE) {
+         echo "<script type= 'text/javascript'>alert('Message delivered successfully');</script>";
+      }
+ 
+     else{echo "<script type= 'text/javascript'>alert('Message couldnot deliver. Please try again');</script>";}
+ }
+?>
+
 <!-- include the nav-bar -->
 <div>
   <!-- tag-line -->
@@ -89,9 +113,9 @@ input[type=submit]:hover {  background-color:green ; padding: 13px 20px;}
 				<input type="text" name="lastname" placeholder="last name" required="autofocus" > <br/>
 	
 				<label>Message</label>
-				<textarea class="textarea" name="message" rows="4" cols="50">Kindly leave a message</textarea>
+				<textarea class="textarea" name="message" rows="4" cols="50"></textarea>
 
-				<input type="submit" name="save" value="Send" >
+				<input type="submit" name="submit" value="Send" >
 				</form>
 				</div>
 	</div>
