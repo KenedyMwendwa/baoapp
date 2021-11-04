@@ -11,6 +11,16 @@ initial-scale=1">
 * {
   box-sizing: border-box;
 }
+
+  body{
+   /*background-image: url("img/network1.jpeg");*//* The image used */
+/*  background-color: black; 
+  height: auto;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;*/
+  }
+
 body { font-family: Arial, Helvetica, sans-serif; width: 100%; float: ;} 
 body {
   margin: auto;

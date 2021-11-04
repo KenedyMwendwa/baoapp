@@ -17,7 +17,7 @@ h3{text-align: center;}
 h1{text-align: center; font-weight: bold;}
 p{margin: 2%;}
 
- .wrapper{ background:white; width:90%; border: 0px solid #a1a1a1; margin: auto;}
+  .wrapper{ background:white; width:90%; border: 0px solid #a1a1a1; margin: auto;}
 .contactscontainer{background: #F5F5F5; padding: 10px; width: 90%; margin: auto;}
 
 .column{width: 50%; float:left;}

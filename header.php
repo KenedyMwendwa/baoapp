@@ -16,7 +16,11 @@ initial-scale=1">
 .navbtn{padding: 10px; background: blue; margin: 5px; border:1px solid blue; border-radius:5px;}
 .navbtn a {float: left; color: #f2f2f2;  text-align: center; padding: 8px 6px; text-decoration: none; font-size: 17px;}
 .topnav {overflow: hidden; float: right; margin: auto; margin-top: 1px;margin-right: -5%;}
-.headerwrapper{background: white; padding: 10px; width: 90%; margin: auto;}
+.headerwrapper{
+  background-image: linear-gradient(to right, white 30%, green); 
+  padding: 10px; 
+  width: 90%; 
+  margin: auto;}
 .row:after {
   content: "";
   display: table;
@@ -39,7 +43,9 @@ other instead of next to each other */
   <!-- head-a -->
 <!-- <div class="fix"> -->
 <div class="row">
-<div class="head-a"><h1>Logo</h1></div>
+<div class="head-a">
+  <img src="img/logoj.jpg" style="width: 120px; height: 110px;">
+</div>
 <!-- head-b -->
 <div class="head-b">
       <div class="topnav">
@@ -54,7 +60,7 @@ other instead of next to each other */
 <!-- </div> -->
  <div class="row">
  <div>
-  <h1 style="text-align: center;">BAOTEC SOLUTIONS</h1>
+  <h1 style="text-align: center; color:blue; font-size: 72px;">BAOTEC SOLUTIONS</h1>
   <marquee scrollamount="20" direction="left"><p class="greeting">You need a service? We are here for you!!</p></marquee>
   <!-- end greeting -->
 </div>
