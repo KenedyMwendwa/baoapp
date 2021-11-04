@@ -25,9 +25,9 @@ li {
 
 li:before {
   content: "\25BA \0020";
-  font-size: 10px;
+  font-size: 15px;
   position: absolute;
-  top: 5px;
+  top: 2px;
   left: -10px;
 }
 

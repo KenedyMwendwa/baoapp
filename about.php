@@ -72,7 +72,7 @@ img{border-radius:5px;}
                                             <div class="aboutform">
                                                 <div class="row">
                                                 <!-- about us goeshere -->
-                                                        <div class="formheading"><h3>About Us</h3></div>
+                                                        <div class="formheading"><h3 style="font-size: 25px;">About Us</h3></div>
 
                                                 <div class="row">
                                                     <div class="aboutcontent">
@@ -92,29 +92,58 @@ img{border-radius:5px;}
                                                         <span class="fa fa-star checked"></span>
                                                     </div>
                                                 </div>
-                                                <div class="row">
+                                        <div class="row">
+                                            <div class="formheading"><h3 style="font-size: 25px;">The Team:</h3></div>
+                                                    <!-- column a -->
                                                     <div class="foundercolumn">
                                                     <img src="img/hacker.jpg" alt="" width="170" height="150">
                                                         <p>Kenedy M.</p>
                                                         <div class="roles">
                                                             <p>(Founder-Programmer.)</p>
                                                         </div>
-                                                    </div>
-                                                    <div class="foundercolumn">
+
                                                     <img src="img/hacker.jpg" alt="" width="170" height="150">
                                                         <p>Kenedy M.</p>
                                                         <div class="roles">
                                                             <p>(Founder-Programmer.)</p>
                                                         </div>
                                                     </div>
+                                                    <!-- end column-a -->
+
+                                                    <!-- start column-b -->
                                                     <div class="foundercolumn">
                                                     <img src="img/hacker.jpg" alt="" width="170" height="150">
                                                         <p>Kenedy M.</p>
                                                         <div class="roles">
                                                             <p>(Founder-Programmer.)</p>
                                                         </div>
+
+                                                    <img src="img/hacker.jpg" alt="" width="170" height="150">
+                                                        <p>Kenedy M.</p>
+                                                        <div class="roles">
+                                                            <p>(Founder-Programmer.)</p>
+                                                        </div>
                                                     </div>
-                                                </div>
+                                                    <!-- end column-b -->
+
+                                                    <!-- Start column-c -->
+                                                    <div class="foundercolumn">
+                                                    <img src="img/hacker.jpg" alt="" width="170" height="150">
+                                                        <p>Kenedy M.</p>
+                                                        <div class="roles">
+                                                            <p>(Founder-Programmer.)</p>
+                                                        </div>
+
+                                                        <img src="img/hacker.jpg" alt="" width="170" height="150">
+                                                        <p>Kenedy M.</p>
+                                                        <div class="roles">
+                                                            <p>(Founder-Programmer.)</p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- end column-c -->
+
+
+                                        </div>
 
                                                 </div>
                                             </div>
