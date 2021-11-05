@@ -16,8 +16,8 @@ initial-scale=1">
 <body>
 <div class="indexwrapper">
   	<?php include('header.php')?>
- 		<?php include('cost.php')?>
-
+  	<?php include('slider.php')?>
+ 	<?php include('cost.php')?>
 	<?php include('footer.php')?>
 </div>
 </body>
