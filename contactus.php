@@ -54,9 +54,9 @@ input[type=submit]:hover {  background-color:green ; padding: 13px 20px;}
 }
 @media screen and (max-width:600px) {
   body{width: auto; height: auto;}
-  .column{width: 100%; float:left; margin: 5px; padding: 3px;}
-  .wrapper{width: 98%;padding: 3px;}
+  .contactscontainer{width: 100%; padding: 3px;}
   .form-container{width:100%; float:left;}
+  .wrapper, .column, .form{width:100%; height: auto;}
 }
 </style>
 </head>

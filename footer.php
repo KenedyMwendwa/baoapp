@@ -44,7 +44,7 @@ font-size: 14px;
 /* Responsive layout - makes the three columns stack on top of each 
 other instead of next to each other */
 @media screen and (max-width:600px) {
-  .footera, .column1, .wrapper{
+  .footer, .footerwrapper{
     width: 100%;
 
     height: auto;

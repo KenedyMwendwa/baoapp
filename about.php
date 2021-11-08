@@ -44,8 +44,13 @@ img{border-radius:5px;}
 
 @media screen and (max-width:600px) {
   body{width: auto; height: auto;}
+  img{width: auto; height: auto; text-align: center;}
   .column{width: 100%; float:left; margin: 5px; padding: 3px;}
-  .aboutwrapper{width: 98%;padding: 3px;}
+  .aboutwrapper{width:auto;padding: 3px;}
+  .aboutcontainer, .aboutcolumn, .aboutform-container, .aboutform{width: 100%}
+  .aboutcontent{width: auto;}
+  .foundercolumn{width: auto;}
+
 }
 
 

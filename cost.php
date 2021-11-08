@@ -55,9 +55,11 @@ img{border-radius: 8%;}
   body{width: auto; height: auto;}
   hr{display: none; }
   .costcolumn{width: 100%; float:left; margin: 5px; padding: 3px;}
-  .costform-container-a, .costform-container-b, .costform-container-c{margin-top: 0px;}
-  .costwrapper{width: 98%;padding: 3px;}
+  .costform-container-a, .costform-container-b, .costform-container-c{width:auto; margin-top: 0px;}
+  .costwrapper{width: auto;padding: 3px;}
   .costbtn{margin: 0px;}
+  .costcontainer{width: auto;}
+  .costform{width: 100%;}
 }
 
 
@@ -169,4 +171,4 @@ img{border-radius: 8%;}
 </div>
 </div>
 </body>
-</html>s
+</html>

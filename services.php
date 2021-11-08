@@ -44,9 +44,11 @@ img{border-radius: 8%;}
 @media screen and (max-width:600px) {
   body{width: auto; height: auto;}
   hr{display: none; }
-  .column{width: 100%; float:left; margin: 5px; padding: 3px;}
-  .wrapper{width: 98%;padding: 3px;}
+  .column{width: 100%; float:left; margin: 1px; padding: 3px;}
+  .wrapper{width: auto;padding: 3px;}
   .btn{margin: 0px;}
+  .servicecontainer{width:auto;}
+  .form-container, .form{width: auto;}
 }
 
 
@@ -58,7 +60,7 @@ img{border-radius: 8%;}
 <div>
    <!-- tag-line -->
   <!-- wrapper -->
-  <div class="wrapper"> 
+ <div class="wrapper"> 
   	<?php include('kichwa.php')?>
   	<!-- include('header.php') -->
   	 <!-- services class -->

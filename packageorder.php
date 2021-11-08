@@ -30,8 +30,11 @@ input[type=submit]:hover {  background-color:green ; padding: 13px 20px;}
 }
 
 @media screen and (max-width: 600px) {
-  .form-container { width:auto; height: auto; } }
-  .packageside{}
+  .form-container { width:auto; height: auto; } 
+  .orderformwrapper{width: auto;}
+  .packageside{display: none;}
+  .Porderform-container{width: 100%;}
+}
 </style>
 
 </head>

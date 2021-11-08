@@ -29,7 +29,9 @@ input[type=submit]:hover {  background-color:green ; padding: 13px 20px;}
 }
 
 @media screen and (max-width: 600px) {
-  .form-container { width:auto; height: auto; } }
+  .form-container { width:auto; height: auto; }
+  .orderformwrapper{width: auto;}
+  .orderform-container{width: 100%;} }
 </style>
 
 </head>

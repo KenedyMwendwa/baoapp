@@ -32,31 +32,26 @@ li:before {
 }
 
 .columnx{width: 33.33%; float:left;}
-.footra{background: white; padding: 10px; width: 90%; margin: auto;}
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
 
-  .wrapper1{ background:white; width:90%; border: 0px solid #a1a1a1; margin: auto;}
+  .wrapper1{ background:white; width:90%; margin: auto;}
 
-.form-container1{ margin: auto; padding: 15px; width: 95%; background: ; margin-top: -3%; border-radius:10px;
+.form-container1{ margin: auto; padding: 15px; width: 95%; margin-top: -3%; border-radius:10px;
 }
 .form1{padding: 15px; 
 	background: white; 
-	border-radius: 20px;
-	margin-top: 2px; 
  	width: 100%; 
- 	display: inline-block;position: inherit;
- 		 }
+  		 }
 
 @media screen and (max-width:600px) {
   body{width: auto; height: auto;}
-  .columnx{width: 100%; float:left; margin: 5px; padding: 3px; margin-top: 0px;}
-  .wrapper1{width: 98%;padding: 3px;}
-  .form-container1{margin-top: 0px;}
-  .form1, .columnx{margin-top: 0px;}
+  .columnx{width: 100%; float:left; margin-top: 0px; margin-bottom: 0px;}
+  .wrapper1{width: 100%;}
+  .hiv{margin-top: 0px; margin-bottom: 0px;}
 }
 
 
@@ -80,16 +75,14 @@ li:before {
 			<div class="form-container1">
 			<div class="form1">
 				<div class="row">
-				<h4>CONTACT INFO</h4>
+				<h4 class="hiv">CONTACT INFO</h4>
 							<p>
 
 								<ul><li>Mobile: 0706073132</li></ul>
 								<ul><li>info@baotech.com</li></ul>
 								<ul><li>support@baotec.com</li></ul>
 								<ul><li>Thika, Kenya</li></ul>
-								
 							</p>
-
 				</div>
 			</div>
 		</div>
@@ -106,7 +99,7 @@ li:before {
 		<div class="form-container1">
 			<div class="form1">
 				<div class="row">
-						<h4>ICT SOLUTIONS</h4>
+						<h4 class="hiv">ICT SOLUTIONS</h4>
 							<p>
 								<ul><li> <a href="services.php" style="text-decoration:none; color: black; ">Web Development and Hosting</a> </li></ul>
 								<ul><li> <a href="services.php" style="text-decoration:none; color: black; ">Software and Mobile Applications</a> </li></ul>
@@ -130,7 +123,7 @@ li:before {
 			<div class="form1">
 					<!-- contact us-image -->
 				<div class="row">
-						<h4>QUICK LINKS</h4>
+						<h4 class="hiv">QUICK LINKS</h4>
 							<p>
 								<ul><li> <a href="aboutus.php" style="text-decoration:none; color: black; ">Who We Are</a> </li></ul>
 								<ul><li> <a href="#" style="text-decoration:none; color: black; ">Our Partners</a> </li></ul>
