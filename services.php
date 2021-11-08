@@ -59,7 +59,8 @@ img{border-radius: 8%;}
    <!-- tag-line -->
   <!-- wrapper -->
   <div class="wrapper"> 
-  	 <?php include('header.php')?>
+  	<?php include('kichwa.php')?>
+  	<!-- include('header.php') -->
   	 <!-- services class -->
 <div class="servicecontainer">
   <div>

@@ -89,7 +89,8 @@ $con = mysqli_connect("localhost", "root", "", "baoapp");
   <!-- tag-line -->
   <!-- wrapper -->
   <div class="wrapper">
-    <?php include('header.php')?>
+  <!--  include('header.php') -->
+    <?php include('kichwa.php')?>
   <!-- container -->
  <div class="contactscontainer">
   <div>

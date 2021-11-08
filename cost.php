@@ -92,7 +92,7 @@ img{border-radius: 8%;}
 							<ul><li>Free Support</li></ul>
 							</div>
 							<div class="row" style="margin-right:;">
-								<button class="costbtn"><a href="order.php">Purchase</a></button>
+								<button class="costbtn"><a href="package.php">Purchase</a></button>
 							</div>
 				</div>
 			</div>
@@ -126,7 +126,7 @@ img{border-radius: 8%;}
 								<ul><li>Free Social Media Management</li></ul>
 							</div>
 							<div class="row" style="margin-right:;">
-								<button class="costbtn"><a href="order.php">Purchase</a></button>
+								<button class="costbtn"><a href="package.php">Purchase</a></button>
 							</div>
 				</div>
 			</div>
@@ -157,7 +157,7 @@ img{border-radius: 8%;}
 								<ul><li>Free Social Media Management</li></ul>
 							</div>
 							<div class="row" style="margin-right:;">
-								<button class="costbtn"><a href="order.php">Purchase</a></button>
+								<button class="costbtn"><a href="package.php">Purchase</a></button>
 							</div>
 				</div>
 			</div>

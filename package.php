@@ -21,7 +21,7 @@
 <div class="wrapper">
 <?php include('kichwa.php')?>
 <!-- include('header.php') -->
-<?php include('orderform1.php')?>
+<?php include('packageorder.php')?>
 <?php include('footer.php')?>
 </div>
 </body>

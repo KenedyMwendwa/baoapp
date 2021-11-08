@@ -12,7 +12,7 @@ initial-scale=1">
 
 /* Create three equal columns that floats next to each other */
 .head-a{  float: left;  width: 10%;  padding: 15px; }
-.head-b{margin: auto; width: 90%;  margin-top: 10px;  }
+.head-b{margin: auto; width: 90%;  margin-top: 10px;}
 .navbtn{padding: 10px; background: blue; margin: 5px; border:1px solid blue; border-radius:5px;}
 .navbtn a {float: left; color: #f2f2f2;  text-align: center; padding: 8px 6px; text-decoration: none; font-size: 17px;}
 .topnav {overflow: hidden; float: right; margin: auto; margin-top: 1px;margin-right: -5%;}

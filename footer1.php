@@ -55,6 +55,8 @@ li:before {
   body{width: auto; height: auto;}
   .columnx{width: 100%; float:left; margin: 5px; padding: 3px; margin-top: 0px;}
   .wrapper1{width: 98%;padding: 3px;}
+  .form-container1{margin-top: 0px;}
+  .form1, .columnx{margin-top: 0px;}
 }
 
 

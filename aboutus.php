@@ -56,7 +56,8 @@ img{border-radius: 8%;}
 </head>
 <body>
 <div class="wrapper"> 
-<?php include('header.php')?>
+<!--  include('header.php') -->
+<?php include('kichwa.php')?>
 <div><?php include('about.php')?></div>
 <?php include('footer.php')?>
 </div>
