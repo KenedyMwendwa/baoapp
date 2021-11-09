@@ -264,4 +264,4 @@ img{border-radius: 8%;}
 </div>
 <!-- end footer -->
 </body>
-</html>s
+</html>

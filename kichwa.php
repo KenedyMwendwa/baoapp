@@ -36,10 +36,12 @@ initial-scale=1">
 other instead of next to each other */
 @media screen and (max-width:600px) {
   img{height:60px; width: 90%;}
-  .kichwa-a {width:20%;}
-  .kichwa-b{width:auto;  font-size: 15px; }
+  .kichwa-a {display: block;}
+  .kichwa-b{width:100%;  font-size: 15px; display: block;}
   .kichwatopnav{width: auto; float: left;}
   .kichwaheaderwrapper{width: auto;}
+  .kichwanavbtn a{width: auto;}
+  .kichwatopnav a{width: auto;}
   body{width: auto;}
 }
 </style>

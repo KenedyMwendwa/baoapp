@@ -15,7 +15,8 @@ initial-scale=1">
 </head>
 <body>
 <div class="indexwrapper">
-  	<?php include('kichwa.php')?>
+	<?php include('kichwa.php')?>
+	<?php include('indexservices.php')?>
   	<!-- include('slider.php') -->
  	<?php include('cost.php')?>
 	<?php include('footer.php')?>
