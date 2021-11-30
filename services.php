@@ -2,7 +2,7 @@
  html>
 <html lang="en">
 <head>
-<title>services</title>
+<title>BAOTEC</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, 
 initial-scale=1">
@@ -78,7 +78,7 @@ img{border-radius: 8%;}
 			<div class="form">
 					<!-- contact us-image -->
 					<div style="text-align: center;">
-						<img src="img/web1.jpg " style="width: 300px; height: 180px;">
+						<img src="img/web4.jpg " style="width: 300px; height: 180px;">
 					</div>
 
 				<div class="row">
@@ -202,7 +202,7 @@ img{border-radius: 8%;}
 			<div class="form">
 					<!-- contact us-image -->
 					<div style="text-align: center;">
-						<img src="img/net.jpg " style="width: 300px; height: 180px;">
+						<img src="img/net3.png " style="width: 300px; height: 180px;">
 					</div>
 
 				<div class="row">
@@ -226,7 +226,7 @@ img{border-radius: 8%;}
 			<div class="form">
 					<!-- contact us-image -->
 					<div style="text-align: center;">
-						<img src="img/marketing.jpg " style="width: 300px; height: 180px;">
+						<img src="img/marketing3.jpg " style="width: 300px; height: 180px;">
 					</div>
 
 				<div class="row">

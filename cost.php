@@ -2,7 +2,7 @@
  html>
 <html lang="en">
 <head>
-<title></title>
+<title>BAOTEC</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, 
 initial-scale=1">
@@ -18,7 +18,7 @@ p{text-align:; margin-right: 20px; margin-left: 20px; line-height: 180%;}
 
 img{border-radius: 8%;}
 .costcolumn{width: 33.33%; float:left; padding: 15px;}
-.costcontainer{background:white; padding: 10px; width:90%;margin: auto;}
+.costcontainer{background:#F8F9F9; padding: 10px; width:90%;margin: auto;}
 .costbtn{padding: 10px; background: green; margin: 5px; border:1px solid blue; border-radius:5px; float: right;}
 .costbtn a {float: left; color: #f2f2f2;  text-align: center; padding: 8px 6px; text-decoration: none; font-size: 17px;}
 

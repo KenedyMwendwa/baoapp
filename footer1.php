@@ -12,8 +12,6 @@ initial-scale=1">
   box-sizing: border-box;
 }
 body { font-family: Arial, Helvetica, sans-serif; width:;}
-h3{color: blue;}
-h4{color: blue;}
 h1{text-align: center;}
 p{text-align:; margin-right: 20px; margin-left: 20px; line-height: 180%;}
 
@@ -32,19 +30,24 @@ li:before {
 }
 
 .columnx{width: 33.33%; float:left;}
+li: a:hover {
+  background-color: ;
+  color: black;
+}
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
 
-  .wrapper1{ background:white; width:90%; margin: auto;}
+.wrapper1{ background:white; width:90%; margin: auto; background-color: #001a33;}
 
-.form-container1{ margin: auto; padding: 15px; width: 95%; margin-top: -3%; border-radius:10px;
-}
+.form-container1{ margin: auto; padding: 15px; 
+	width: 95%; color: white; 
+	margin-top: -3%; border-radius:10px;}
 .form1{padding: 15px; 
 	background: white; 
- 	width: 100%; 
+ 	width: 100%; background-color: #001a33;
   		 }
 
 @media screen and (max-width:600px) {
@@ -59,11 +62,7 @@ li:before {
 </style>
 </head>
 <body>
-<!-- include the nav-bar -->
-<div>
-   <!-- tag-line -->
-  <!-- wrapper -->
-  <div class="wrapper1"> 
+<div class="wrapper1"> 
    	 <!-- services class -->
 <div class="footracontainer">
 <!-- servvices begins here -->
@@ -101,10 +100,10 @@ li:before {
 				<div class="row">
 						<h4 class="hiv">ICT SOLUTIONS</h4>
 							<p>
-								<ul><li> <a href="services.php" style="text-decoration:none; color: black; ">Web Development and Hosting</a> </li></ul>
-								<ul><li> <a href="services.php" style="text-decoration:none; color: black; ">Software and Mobile Applications</a> </li></ul>
-								<ul><li> <a href="services.php" style="text-decoration:none; color: black; ">Networking</a> </li></ul>
-								<ul><li> <a href="services.php" style="text-decoration:none; color: black; ">Online Marketing</a> </li></ul>
+								<ul><li> <a href="services.php" style="text-decoration:none; color: white; ">Web Development and Hosting</a> </li></ul>
+								<ul><li> <a href="services.php" style="text-decoration:none; color: white; ">Software and Mobile Applications</a> </li></ul>
+								<ul><li> <a href="services.php" style="text-decoration:none; color: white; ">Networking</a> </li></ul>
+								<ul><li> <a href="services.php" style="text-decoration:none; color: white; ">Online Marketing</a> </li></ul>
 							</p>
 
 			</div>
@@ -125,10 +124,10 @@ li:before {
 				<div class="row">
 						<h4 class="hiv">QUICK LINKS</h4>
 							<p>
-								<ul><li> <a href="aboutus.php" style="text-decoration:none; color: black; ">Who We Are</a> </li></ul>
-								<ul><li> <a href="#" style="text-decoration:none; color: black; ">Our Partners</a> </li></ul>
-								<ul><li> <a href="contactus.php" style="text-decoration:none; color: black; ">Contact Us</a> </li></ul>
-								<ul><li> <a href="services.php" style="text-decoration:none; color: black; ">Services</a> </li></ul>
+								<ul><li> <a href="aboutus.php" style="text-decoration:none; color: white; ">Who We Are</a> </li></ul>
+								<ul><li> <a href="#" style="text-decoration:none; color: white; ">Our Partners</a> </li></ul>
+								<ul><li> <a href="contactus.php" style="text-decoration:none; color: white; ">Contact Us</a> </li></ul>
+								<ul><li> <a href="services.php" style="text-decoration:none; color: white; ">Services</a> </li></ul>
 							</p>
 				</div>
 			</div>
@@ -141,14 +140,5 @@ li:before {
 </div>
 </div>
 </div>
-<!-- end wrapper -->
-<!-- services ends here -->
-
-
-<!-- footer -->
-<div>
-
-</div>
-<!-- end footer -->
 </body>
 </html>

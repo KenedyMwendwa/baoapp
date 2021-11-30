@@ -2,7 +2,7 @@
  html>
 <html lang="en">
 <head>
-<title>services</title>
+<title>index services</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, 
 initial-scale=1">
@@ -30,7 +30,7 @@ img{border-radius: 8%;}
 }
 .iswrapper{ background:white; width:90%; border: 0px solid #a1a1a1; margin: auto;}
 
-.isbtn{padding: 2px; background: blue; margin: 0px; border:1px solid blue; border-radius:5px; float: center;}
+.isbtn{padding: 2px; background: green; margin: 0px; border:1px solid green; border-radius:5px; float: center;}
 .isbtn a {float: left; color: #f2f2f2;  text-align: center; padding: 8px 6px; text-decoration: none; font-size: 17px;}
 
 .isform-container{ margin: auto; padding: 5px; width: 100%; 
@@ -65,9 +65,10 @@ img{border-radius: 8%;}
  <div class="iswrapper"> 
 <div class="isservicecontainer">
   <div class="upperis">
-  	<h3 style="color:#00bfff; font-size: 24px;">Welcome To Baotec Solutions</h3>
+  	<h3 style="color:blue; font-size: 24px;">Welcome To Baotec Solutions</h3>
   	<h2>For ALL Services That You May Need</h2>
   </div>
+ <!--  #00bfff -->
 <!-- servvices begins here -->
 <div class="row">
 	<!-- start columna -->
@@ -78,18 +79,17 @@ img{border-radius: 8%;}
 			<div class="isform">
 					<!-- contact us-image -->
 					<div style="text-align: center;">
-						<img src="img/hosting.jpg " style="width: 300px; height: 140px;">
+						<img src="img/web4.jpg " style="width: 300px; height: 140px;">
 					</div>
 
 				<div class="row">
 						<h3>Web Development</h3>
 							<p>
-								The elvolvement of new technology has opened new ways of 
-								business transactions that are driven by online marketing.
+								We design websites that highlight your brand to potential customers and increase conversions.
 							</p>
 
 							<div class="row" style="margin-right:;">
-								<button class="isbtn"><a href="order.php">Learn more +</a></button>
+								<button class="isbtn"><a href="services.php">Learn more +</a></button>
 							</div>
 				</div>
 			</div>
@@ -110,12 +110,11 @@ img{border-radius: 8%;}
 				<div class="row">
 						<h3>Mobile Applications</h3>
 							<p>
-								The elvolvement of new technology has opened new ways of 
-								business transactions that are driven by online marketing. 
+								We aim to increase your visibility to clients and bring your brand online with mobile applications. 
 							</p>
 
 							<div class="row" style="margin-right: 0px;">
-								<button class="isbtn"><a href="order.php">Learn more +</a></button>
+								<button class="isbtn"><a href="services.php">Learn more +</a></button>
 							</div>
 				</div>
 			</div>
@@ -130,18 +129,17 @@ img{border-radius: 8%;}
 			<div class="isform">
 					<!-- contact us-image -->
 					<div style="text-align: center;">
-						<img src="img/net3.png " style="width: 300px; height: 150px;">
+						<img src="img/net3.png " style="width: 300px; height: 145px;">
 					</div>
 
 				<div class="row">
 						<h3>Networking Services</h3>
 							<p>
-								The elvolvement of new technology has opened new ways of 
-								business transactions that are driven by online marketing.
+								 We will create a networking environment that has a basis of  support to your potential customers.  
 							</p>
 
 							<div class="row" style="margin-right: 0px;">
-								<button class="isbtn"><a href="order.php">Learn more +</a></button>
+								<button class="isbtn"><a href="services.php">Learn more +</a></button>
 							</div>
 				</div>
 			</div>
@@ -158,18 +156,17 @@ img{border-radius: 8%;}
 			<div class="isform">
 					<!-- contact us-image -->
 					<div style="text-align: center;">
-						<img src="img/marketing.jpg " style="width: 300px; height: 140px;">
+						<img src="img/marketing3.jpg " style="width: 300px; height: 140px;">
 					</div>
 
 				<div class="row">
 						<h3>Online Marketing</h3>
 							<p>
-								The elvolvement of new technology has opened new ways of 
-								business transactions that are driven by online marketing.
+								Our solutions will provide ways that will help you to accelerate business transactions through online trading.
 							</p>
 
 							<div class="row" style="margin-right:;">
-								<button class="isbtn"><a href="order.php">Learn more +</a></button>
+								<button class="isbtn"><a href="services.php">Learn more +</a></button>
 							</div>
 				</div>
 			</div>

@@ -50,8 +50,8 @@ other instead of next to each other */
 <div class="head-b">
       <div class="topnav">
         <button class="navbtn"><a class="active" href="index.php">Home</a></button>
-        <button class="navbtn"><a href="services.php">Services</a></button>
         <button class="navbtn"><a href="aboutus.php">About Us</a></button>
+        <button class="navbtn"><a href="services.php">Services</a></button>
         <button class="navbtn"><a href="contactus.php">Contact Us</a></button>
         <!-- greeting -->
        </div>
